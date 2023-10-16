@@ -2,7 +2,7 @@
 
 **Étudiant en** : Graphisme et Webdesign 🎨
 **École** : Doranco 🏫
-**Année** : 2023-2024
+**Année(s)** : 2023-2025
 
 ## Objectifs de mon alternance
 
@@ -22,4 +22,4 @@ Je suis convaincu que cette expérience me permettra de développer mes compéte
 ## Liens utiles
 
 * [Air France](https://www.airfrance.fr) 🌐
-* [École de l'étudiant](https://www.doranco.fr) 🏫
+* [École](https://www.doranco.fr) 🏫
