@@ -1,16 +1,25 @@
-### Hi there 👋
+# Alternant Graphiste/Webdesigner chez Air France ✈️
 
-<!--
-**KilianBarbier/KilianBarbier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Étudiant en** : Graphisme et Webdesign 🎨
+**École** : Doranco 🏫
+**Année** : 2023-2024
 
-Here are some ideas to get you started:
+## Objectifs de mon alternance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Acquérir des compétences pratiques dans le domaine du graphisme et du webdesign 💻
+* Participer à des projets concrets au sein de l'entreprise 📈
+* Développer mon réseau professionnel 🤝
+
+## Contact
+
+Kilian Barbier 👨‍💻
+contact@kilianbarbier.fr✉️
+
+## Commentaires
+
+Je suis convaincu que cette expérience me permettra de développer mes compétences et de me lancer dans une carrière de graphiste/webdesigner. 🚀
+
+## Liens utiles
+
+* [Air France](https://www.airfrance.fr) 🌐
+* [École de l'étudiant](https://www.doranco.fr) 🏫
