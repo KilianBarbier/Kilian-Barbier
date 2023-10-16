@@ -13,7 +13,7 @@
 ## Contact
 
 * Kilian Barbier 👨‍💻
-* contact@kilianbarbier.fr✉️
+[contact@kilianbarbier.fr] ✉️
 
 ## Commentaires
 
