@@ -12,8 +12,8 @@
 
 ## Contact
 
-* Kilian Barbier 👨‍💻
-* ```contact@kilianbarbier.fr``` ✉️
+Kilian Barbier 👨‍💻  
+```contact@kilianbarbier.fr``` ✉️
 
 ## Commentaires
 
