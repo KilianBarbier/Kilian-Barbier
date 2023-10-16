@@ -1,8 +1,8 @@
 # Alternant Graphiste/Webdesigner chez Air France ✈️
 
-* **Étudiant en** : Graphisme et Webdesign 🎨<br>
-* **École** : Doranco 🏫<br>
-* **Année(s)** : 2023-2025<br>
+**Étudiant en** : Graphisme et Webdesign 🎨  
+**École** : Doranco 🏫  
+**Année(s)** : 2023-2025<br>
 
 ## Objectifs de mon alternance
 
