@@ -20,6 +20,6 @@ Kilian Barbier 👨‍💻
 Je suis convaincu que cette expérience me permettra de développer mes compétences et de me lancer dans une carrière de graphiste/webdesigner. 🚀
 
 ## Liens utiles
-* [My website](https:kbarbier.fr) 🌐
+* [My website](https://kbarbier.fr) 🌐
 * [Air France](https://www.airfrance.fr) 🛫
 * [École](https://www.doranco.fr) 🏫
